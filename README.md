@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TiagoGavassi
-- 👀 I’m interested in any shit that could make sense
 - Lost my last account :(
-- 💞️ I’m looking to collaborate on Midi Controllers Projects
 - 📫 How to reach me tiago.gavassi@gmail.com
 
 <!---
